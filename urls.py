@@ -1,5 +1,5 @@
 URL_LIST = [
-    "https://blog.csdn.net/lwcwam/article/details/147933545",
-    "https://blog.csdn.net/lwcwam/article/details/147933545",
-    "https://lucianaib.blog.csdn.net/article/details/148077253"
+    "https://blog.csdn.net/lwcwam/article/details/148450664",
+    "https://blog.csdn.net/lwcwam/article/details/148450664",
+    "https://blog.csdn.net/lwcwam/article/details/148197901"
 ]
